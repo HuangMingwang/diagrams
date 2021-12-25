@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T16:25:20.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3EMsN6KK478IAvuoLgKp" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T17:03:28.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mUPB4g7hB0dHOLUbJF9a" version="16.1.0" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="840" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1081" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,6 +189,14 @@
         <mxCell id="-Oqs4p4Zk8yDsz0VDsW7-113" value="&lt;ol&gt;&lt;li&gt;支持语言：Go、C++、Python、Nodejs、Java、PHP&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;支持存储组件类型：CDB、MDB、Redis&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="-20" width="340" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dRIbg91o-mGmstCMDV2L" name="第 2 页">
+    <mxGraphModel dx="1081" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lgHOZfx0pEI7RpwEdkWu-0" />
+        <mxCell id="lgHOZfx0pEI7RpwEdkWu-1" parent="lgHOZfx0pEI7RpwEdkWu-0" />
       </root>
     </mxGraphModel>
   </diagram>
